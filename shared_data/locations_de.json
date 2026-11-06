@@ -1,0 +1,266 @@
+{
+ "_meta": {
+  "beschreibung": "Trainer-Orte (deutsch, wie in skills_de.json) -> englischer Name und Py4GW-Aussenposten-ID; map_id null = nicht eindeutig/kein Aussenposten.",
+  "quelle": "GuildWiki.de ({{en|...}} der Ortsseiten) + Py4GWCoreLib/enums_src/Map_enums.py (outposts, map_variants_to_base)",
+  "lizenz": "CC BY-NC-SA 4.0 (GuildWiki.de)",
+  "stand": "2026-10-20"
+ },
+ "locations": {
+  "Altrumm-Ruinen": {
+   "en": "Altrumm Ruins",
+   "map_id": 272
+  },
+  "Ascalon": {
+   "en": "Ascalon",
+   "map_id": null
+  },
+  "Auge des Nordens": {
+   "en": "Eye of the North",
+   "map_id": 642
+  },
+  "Ausgrabungsstätte von Jokanur": {
+   "en": "Jokanur Diggings",
+   "map_id": 491
+  },
+  "Bai Paasu-Hügel": {
+   "en": "Bai Paasu Reach",
+   "map_id": 288
+  },
+  "Beetletun": {
+   "en": "Beetletun",
+   "map_id": 136
+  },
+  "Beknurhafen": {
+   "en": "Beknur Harbor",
+   "map_id": null
+  },
+  "Brauer-Akademie": {
+   "en": "Brauer Academy",
+   "map_id": 286
+  },
+  "Cavalon": {
+   "en": "Cavalon",
+   "map_id": 193
+  },
+  "Dajkah-Zulauf": {
+   "en": "Dajkah Inlet",
+   "map_id": 554
+  },
+  "Der Kodash-Basar": {
+   "en": "The Kodash Bazaar",
+   "map_id": 414
+  },
+  "Der Schlund der Qual": {
+   "en": "The Mouth of Torment",
+   "map_id": 440
+  },
+  "Die Heilige Halle der Geheimnisse": {
+   "en": "Chantry of Secrets",
+   "map_id": 393
+  },
+  "Die Oase Amnoon": {
+   "en": "The Amnoon Oasis",
+   "map_id": 109
+  },
+  "Drachenhals": {
+   "en": "Dragon's Throat",
+   "map_id": 274
+  },
+  "Droknars Schmiede": {
+   "en": "Droknar's Forge",
+   "map_id": 20
+  },
+  "Durheim-Archive": {
+   "en": "Durheim Archives",
+   "map_id": 287
+  },
+  "Eiszahnhöhle": {
+   "en": "Ice Tooth Cave",
+   "map_id": 132
+  },
+  "Eredon-Terrasse": {
+   "en": "Eredon Terrace",
+   "map_id": 350
+  },
+  "Erntetempel": {
+   "en": "Harvest Temple",
+   "map_id": 277
+  },
+  "Feste Maatu": {
+   "en": "Maatu Keep",
+   "map_id": 283
+  },
+  "Gerichtsgebäude in Grendich": {
+   "en": "Grendich Courthouse",
+   "map_id": 36
+  },
+  "Glutscheinlager": {
+   "en": "Ember Light Camp",
+   "map_id": 35
+  },
+  "Große Halle der Sonnenspeere": {
+   "en": "Sunspear Great Hall",
+   "map_id": 431
+  },
+  "Großer Hof von Sebelkeh": {
+   "en": "Grand Court of Sebelkeh",
+   "map_id": 435
+  },
+  "Gunnars Feste": {
+   "en": "Gunnar's Hold",
+   "map_id": 644
+  },
+  "Hafen von Seitung": {
+   "en": "Seitung Harbor",
+   "map_id": 250
+  },
+  "Haus zu Heltzer": {
+   "en": "House zu Heltzer",
+   "map_id": 77
+  },
+  "Heilige Halle der Geheimnisse": {
+   "en": "Chantry of Secrets",
+   "map_id": 393
+  },
+  "Höhle der Vergessenen": {
+   "en": "Lair of the Forgotten",
+   "map_id": 442
+  },
+  "Jakbiegung": {
+   "en": "Yak's Bend",
+   "map_id": 134
+  },
+  "Kamadan, Juwel von Istan": {
+   "en": "Kamadan, Jewel of Istan",
+   "map_id": 449
+  },
+  "Kloster von Shing Jea": {
+   "en": "Shing Jea Monastery",
+   "map_id": 242
+  },
+  "Kodash-Basar": {
+   "en": "The Kodash Bazaar",
+   "map_id": 414
+  },
+  "Kommandostelle": {
+   "en": "Command Post",
+   "map_id": null
+  },
+  "Kupferhammer-Minen": {
+   "en": "Copperhammer Mines",
+   "map_id": 159
+  },
+  "Leviathangruben": {
+   "en": "Leviathan Pits",
+   "map_id": 279
+  },
+  "Lutgardis-Wintergarten": {
+   "en": "Lutgardis Conservatory",
+   "map_id": 129
+  },
+  "Löwenstein": {
+   "en": "Lion's Arch",
+   "map_id": 55
+  },
+  "Maguuma-Gestade": {
+   "en": "Maguuma Stade",
+   "map_id": 141
+  },
+  "Marhans Grotte": {
+   "en": "Marhan's Grotto",
+   "map_id": 157
+  },
+  "Markt von Yahnur": {
+   "en": "Yahnur Market",
+   "map_id": 407
+  },
+  "Oase Amnoon": {
+   "en": "The Amnoon Oasis",
+   "map_id": 109
+  },
+  "Oase der Fischer": {
+   "en": "Fishermen's Haven",
+   "map_id": 137
+  },
+  "Provinz Nordkryta": {
+   "en": "North Kryta Province",
+   "map_id": null
+  },
+  "Ran Musu Gärten": {
+   "en": "Ran Musu Gardens",
+   "map_id": 251
+  },
+  "Ran Musu-Gärten": {
+   "en": "Ran Musu Gardens",
+   "map_id": 251
+  },
+  "Rankor-Lager": {
+   "en": "Camp Rankor",
+   "map_id": 155
+  },
+  "Rata Sum": {
+   "en": "Rata Sum",
+   "map_id": 640
+  },
+  "Schlittenhafen": {
+   "en": "Port Sledge",
+   "map_id": 158
+  },
+  "Schlund der Qual": {
+   "en": "The Mouth of Torment",
+   "map_id": 440
+  },
+  "Schrein der Heiligen Anjeka": {
+   "en": "Saint Anjeka's Shrine",
+   "map_id": 349
+  },
+  "Schrein der heiligen Anjeka": {
+   "en": "Saint Anjeka's Shrine",
+   "map_id": 349
+  },
+  "Seemannsruh": {
+   "en": "Seafarer's Rest",
+   "map_id": 289
+  },
+  "Senjis Ecke": {
+   "en": "Senji's Corner",
+   "map_id": 51
+  },
+  "Stadt Ascalon": {
+   "en": "Ascalon City",
+   "map_id": 81
+  },
+  "Steinkreis von Denravi": {
+   "en": "Henge of Denravi",
+   "map_id": 49
+  },
+  "Terrassen von Wehhan": {
+   "en": "Wehhan Terraces",
+   "map_id": 378
+  },
+  "Tor der Qualen": {
+   "en": "Gate of Torment",
+   "map_id": 450
+  },
+  "Wasserfälle des Zerwürfnisses": {
+   "en": "Quarrel Falls",
+   "map_id": 142
+  },
+  "Yohlon-Winkel": {
+   "en": "Yohlon Haven",
+   "map_id": 381
+  },
+  "Zentrum von Kaineng": {
+   "en": "Kaineng Center",
+   "map_id": 194
+  },
+  "Zin Ku-Gang": {
+   "en": "Zin Ku Corridor",
+   "map_id": 284
+  },
+  "kloster von Shing Jea": {
+   "en": "Shing Jea Monastery",
+   "map_id": 242
+  }
+ }
+}
